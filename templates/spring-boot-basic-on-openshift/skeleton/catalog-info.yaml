@@ -22,5 +22,5 @@ metadata:
     - sonarqube
 spec:
   type: service
-  owner: piomin
+  owner: mkalaimalai
   lifecycle: experimental

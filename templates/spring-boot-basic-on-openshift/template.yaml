@@ -14,7 +14,7 @@ metadata:
     - openshift
     - argocd
 spec:
-  owner: piomin
+  owner: mkalaimalai
   system: microservices
   type: service
 

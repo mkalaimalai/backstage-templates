@@ -12,7 +12,7 @@ metadata:
     - renovate
     - sonarqube
 spec:
-  owner: piomin
+  owner: mkalaimalai
   system: microservices
   type: service
 
@@ -47,11 +47,11 @@ spec:
         groupId:
           title: Maven Group ID
           type: string
-          default: pl.piomin.services
+          default: com.mkalaimalai.services
         javaPackage:
           title: Java package directory
           type: string
-          default: pl/piomin/services
+          default: com/mkalaimalai/services
         apiPath:
           title: REST API path
           type: string
